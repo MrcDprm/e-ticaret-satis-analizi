@@ -1,0 +1,19 @@
+# Veri İşleme
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Görselleştirme
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Makine Öğrenmesi
+scikit-learn>=1.1.0
+
+# Geliştirme Ortamı
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Ek Kütüphaneler
+openpyxl>=3.0.0  # Excel dosyaları için
+xlrd>=2.0.0      # Excel dosyaları için 
