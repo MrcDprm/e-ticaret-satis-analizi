@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Ticaret Satış Analizi Projesi
 
 ## 📊 Proje Özeti
@@ -153,3 +154,7 @@ jupyter notebook
 ---
 
 *Bu proje e-ticaret satış analizi için kapsamlı bir veri analizi çözümü sunmaktadır.*
+=======
+# e-ticaret-satis-analizi
+Kapsamlı e-ticaret satış analizi projesi - Funnel analizi, RFM segmentasyonu, trend analizi ve business intelligence dashboard
+>>>>>>> fe4f8aff5296e8cbcb132f5db4be5a9fceb9ed6a
