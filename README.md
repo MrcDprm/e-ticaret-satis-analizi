@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 E-Ticaret Satış Analizi Projesi
 
 ## 📊 Proje Özeti
